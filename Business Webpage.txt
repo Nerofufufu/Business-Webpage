@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>VixForge - Forging Epic Adventures in Gaming</title>
+	<style>
+		h1 {
+			color: #ff1a1a;
+			text-align: center;
+			font-family: Georgia, serif;
+			font-size: 80px;
+		}
+		body {
+			position: relative;
+			background-color: black;
+		}
+		.background-image-overlay {
+			position: fixed;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			background-image: url(https://wallpapercave.com/wp/xdam1u0.jpg);
+			background-repeat: no-repeat;
+			background-size: cover;
+			opacity: 0.5;
+			z-index: -1;
+		}
+		h2 {
+			color: #ff4d4d;
+			text-align: center;
+			font-family: Times New Roman, sans-serif;
+			font-size: 42px;
+		}
+		p {
+			color: #ffffff;
+			text-align: center;
+			font-family: Times New Roman, sans-serif;
+			font-size: 36px;
+		}
+		img {
+			width: 700px;
+			height: 400px;
+			display: block;
+			margin: 0 auto;
+		}
+		video {
+			width: 700px;
+			height: 400px;
+			display: block;
+			margin: 0 auto;
+		}
+		h3	{
+			color: #ffffff;
+			text-align: center;
+			font-famly: Times New Roman, sans-serf;
+			font-size: 20px;
+			font-weight: italic
+		}
+	</style>
+</head>
+<body>
+	<div class="background-image-overlay"></div>
+	<h1>Vix Forge</h1>
+	<h2>Forging Epic Adventures in Gaming!</h2>
+	<video src="Gaming_Montage.mp4" autoplay loop muted preload></video>
+	<p>We offer gaming guilds, private-server setups, top-up services, and other gaming-related aspects!</p>
+	<p>Here are some of our top-up offers</p>
+	<img src=TOPUP.jpg></img>
+	<p>Our proud guild found in almost every game no matter what genre</p>
+	<img src=Elegant_Upbeat.jpg></img>
+	<h3>In the digital era of gaming, there are three primary ways to make money: catering to gamers' needs by selling in-game items, creating customized gaming experiences through private servers, and utilizing advertisements. Gamers often buy virtual items to enhance their gameplay, while private servers offer personalized gaming environments that can be monetized through subscriptions or donations. Advertisements within games provide opportunities for partnerships with brands, benefiting developers, streamers, and influencers. These avenues demonstrate the economic potential of the gaming community and the diverse opportunities it presents for financial gain.</h3>
+	<hr>
+	<p>For any concern, contact us here</p>
+	<a href="https://imgur.com/a/uqaZWUB">
+  <img src=Click_Here.png></img>
+</body>
+</html>
